@@ -2,7 +2,7 @@
   "name": "wt-js-02-color-switcher-timer",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Mykyta-Veklich.github.io/wt-js-02-color-switcher-timer",
+  "homepage": "https://Mykyta-Veklich.github.io/wt-js-color-switcher-timer-01/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mykyta-Veklich/wt-js-02-color-switcher-timer.git"
+    "url": "git+https://github.com/Mykyta-Veklich/wt-js-color-switcher-timer-01.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mykyta-Veklich/wt-js-02-color-switcher-timer/issues"
+    "url": "https://github.com/Mykyta-Veklich/wt-js-color-switcher-timer-01/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
